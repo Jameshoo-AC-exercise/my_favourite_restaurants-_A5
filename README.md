@@ -1,6 +1,13 @@
 # My favourite restaurants
 A web application for sharing my favourite restaurants with you. You can easily search the restaurant with name or type of food that you are interested in.
 
+# Development tools
+* Node.js 14.16.0
+* Express 6.14.11
+* Express-Handlebars 5.3.5
+* Bootstrap 5.1.3
+* Font-awesome 6.0.0
+
 # Web interface
 ## Main page
 ![main](https://user-images.githubusercontent.com/87403901/145699131-18ca2306-9753-463c-abd7-89e9b1c895a2.png)
@@ -52,13 +59,6 @@ Install nodemon
 Setting the environment for development
 
     npm run dev
-
-# Development tools
-* Node.js 14.16.0
-* Express 6.14.11
-* Express-Handlebars 6.14.11
-* Bootstrap 4.3.1
-* Font-awesome 6.0.0
 
 # Contributor
 [jameshoo123](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)
