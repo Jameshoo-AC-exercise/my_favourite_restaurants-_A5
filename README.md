@@ -3,19 +3,19 @@ A web application for sharing my favourite restaurants with you. You can easily 
 
 # Web interface
 ## Main page
-![main](https://user-images.githubusercontent.com/87403901/145699131-18ca2306-9753-463c-abd7-89e9b1c895a2.png)
+![main](https://user-images.githubusercontent.com/87403901/145719285-7d8f970f-1dd3-4632-9491-8faebd13637d.png)
 
 ## Detail of restaurant
-![detail](https://user-images.githubusercontent.com/87403901/145699137-474ed802-0a91-4ab5-b464-a9c5f753abae.png)
+![detail](https://user-images.githubusercontent.com/87403901/145719289-59f23122-fed0-4463-a2ae-66a607bb9393.png)
 
 ## Search restaurant
-![search](https://user-images.githubusercontent.com/87403901/145699138-b6ce2550-6e20-49f3-93bd-ec779eab5c65.png)
+![search](https://user-images.githubusercontent.com/87403901/145719296-b2c92125-b54f-43e2-8135-98dc5766aa4b.png)
 
 ## Add restaurant
-![add](https://user-images.githubusercontent.com/87403901/145699153-7e06a6ed-aaba-4ab1-8893-51577a8e22a6.png)
+![add](https://user-images.githubusercontent.com/87403901/145719306-492dae30-d26c-4f5d-b131-ea589c5b5b36.png)
 
 ## Edit restaurant
-![edit](https://user-images.githubusercontent.com/87403901/145699156-c9aabf27-66ee-4f87-a9a6-dddcf0d5e4b3.png)
+![edit](https://user-images.githubusercontent.com/87403901/145719311-ccb99883-6856-4d5e-b11b-2628d2a67710.png)
 
 # Features
 1. All favourite restaurants were shown on main page (include name, type of food, and promoted star of restaurants were displayed)
