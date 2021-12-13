@@ -49,6 +49,10 @@ Install nodemon
 
     npm install -g nodemon
 
+Add my favourite restaurants to your mongoDB
+
+    npm run seed
+
 Setting the environment for development
 
     npm run dev
